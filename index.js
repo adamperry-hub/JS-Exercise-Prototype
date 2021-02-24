@@ -6,7 +6,7 @@
         + If a plane takes off, its `isFlying` property is set to true.
         + If a plane lands, its `isFlying` property is set to false.
 
-        f
+        fu
 */
 
 // EXAMPLE SOLUTION CODE:
